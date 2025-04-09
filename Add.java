@@ -4,7 +4,9 @@ public class Add{
         int b=20;
         int Sum=a+b;
         int Sub=b-a;
+        int div=b/a;
         System.out.println("Sum is: "+Sum);
         System.out.println("Sub is: "+Sub);
+        System.out.println("div is: "+div);
     }
 }
